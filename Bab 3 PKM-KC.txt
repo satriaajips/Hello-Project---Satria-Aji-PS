@@ -1,0 +1,28 @@
+Bab 3 :
+
+Flow chart kegiatan
+1. studi pustaka (liat poin C di file pak Gamma di metode pelaksanaan)
+pembuatan karsa cipta ini akan dilakukan dengan beberapa tahap seperti dibawah. 
+metode terkait dengan penelitian bla bla bla..
+(satu paragraf saja)
+
+2. Perancangan sistem -> terdapat Block diagram sistem.
+
+3. pengumpulan data : pembuatan karsa cipta ini memerlukan data bla bla bla.
+digunakan untuk proses training. membuat model machine learning kalo video 
+berhelm artinya pengendara tertib, jika sebaliknya akan memunculkan alarm
+warning pada monitor pemantau.
+
+4. implementasi sistem 1 : dari data yang telah kami kumpuklkan selanjutnya
+kami implementasikan sistem ini menggunakan bla bla bla.
+
+5. evaluasi hasil : menguji program apakah dapat berfungsi sesuai
+harapan program atau tidak.
+
+6. implementasi sistem 2 : penyempurnaan akurasi sistem dari impelementasi
+sistem 1 dan perbaikan di poin evaluasi hasil
+
+pada poin E : diberikan kelebihan sistem juga dan direpresentasikan 
+block sistem diagram nya satu per satu dalam bentuk gambar. contoh : masukkan
+gambar mini PC, gambar monitor, gambar cctv yg mengarah ke object. konsepnya
+seperti mata tuhan di film fast and furious (bounding box object detection).
